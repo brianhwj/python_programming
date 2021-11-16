@@ -24,9 +24,3 @@ n_of_Yesterday = read.count('Yesterday')
 print(f'Number of a word Yesterday {n_of_Yesterday}')
 n_of_yesterday = read.lower().count('yesterday')
 print(f'Number of a word yesterday {n_of_yesterday}')
-
-
-
-
-    
-
